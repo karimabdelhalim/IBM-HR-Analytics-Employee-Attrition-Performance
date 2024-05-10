@@ -4,7 +4,8 @@
 This project aims to uncover the factors that lead to employee attrition using the IBM HR Analytics Employee Attrition & Performance dataset. The dataset contains various features related to employees, such as job role, distance from home, education, monthly income, and whether they have left the company (attrition).
 
 ## Contents
-1. [Dataset Description](#dataset-description)
+1.  The dataset contains employee information from the [IBM HR Analytics Employee Attrition & Performance dataset](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+
 2. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 3. [Statistical Tests](#statistical-tests)
 4. [Modeling](#modeling)
