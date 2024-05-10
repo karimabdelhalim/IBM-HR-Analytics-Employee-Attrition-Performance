@@ -41,6 +41,7 @@ This project aims to uncover the factors that lead to employee attrition using t
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- catboost
 - pytorch
 - StatsModels
 
